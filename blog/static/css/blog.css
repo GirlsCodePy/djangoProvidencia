@@ -1,0 +1,62 @@
+
+.page-header {
+    background-color: #FF4a77;
+	background-size: 58px 58px;
+	background-position: 0px 2px, 4px 35px, 29px 31px, 33px 6px,
+	0px 36px, 4px 2px, 29px 6px, 33px 30px;
+	background-image:
+	linear-gradient(335deg, #C90032 23px, transparent 23px),
+	linear-gradient(155deg, #C90032 23px, transparent 23px),
+	linear-gradient(335deg, #C90032 23px, transparent 23px),
+	linear-gradient(155deg, #C90032 23px, transparent 23px),
+
+	linear-gradient(335deg, #C90032 10px, transparent 10px),
+	linear-gradient(155deg, #C90032 10px, transparent 10px),
+	linear-gradient(335deg, #C90032 10px, transparent 10px),
+	linear-gradient(155deg, #C90032 10px, transparent 10px);
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+
+}
+
+.date {
+    float: right;
+    color: #828282;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.post h1 a, .post h1 a:visited {
+    color: #000000;
+}
